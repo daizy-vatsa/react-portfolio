@@ -1,5 +1,5 @@
 
-# **[React_Portfolio →](https://amitabh-k.github.io/react-portfolio/)** 
+# **[React_Portfolio](https://amitabh-k.github.io/react-portfolio/)** 
 
 
  **[My Portfolio →](https://amitabh-k.github.io/react-portfolio/)** (https://amitabh-k.github.io/react-portfolio/)
