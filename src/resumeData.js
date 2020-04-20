@@ -81,7 +81,7 @@ let resumeData = {
     // ],
     "portfolio":[
       {
-        "name":"Ecommerce App NoSQL ",
+        "name":"Online marketplace NoSQL ",
         "description":"Ecommerce application with NodeJS ExpressJS Sequelize ORM with Passport.js for User Authentication",
         "imgurl":"images/portfolio/comingSoon.jpeg",
         "link":"https://burger-amitabh.herokuapp.com/",
