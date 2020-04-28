@@ -81,6 +81,13 @@ let resumeData = {
     // ],
     "portfolio":[
       {
+        "name":"eCommerce Marketplace",
+        "description":"eCommerce Marketplace is an online marketplace that enables an online retailer to sell products online, accept credit card and paypal payments.",  
+        "imgurl":"images/portfolio/ecom.png", 
+        "link":"http://www.amitabhkumar.com/",
+        "git":"https://github.com/Amitabh-K/e-commerce-market-place"
+      },
+      {
         "name":"Online marketplace NoSQL ",
         "description":"Ecommerce application with NodeJS ExpressJS Sequelize ORM with Passport.js for User Authentication",
         "imgurl":"images/portfolio/comingSoon.jpeg",
@@ -95,13 +102,7 @@ let resumeData = {
         "link":"https://burger-amitabh.herokuapp.com/",
         "git":"https://github.com/Amitabh-K/P.A.C-IT-Buy-N-Sell/"
       },
-      {
-        "name":"Weather App",
-        "description":"Weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities.",  
-        "imgurl":"images/portfolio/weather.jpeg", 
-        "link":"https://amitabh-k.github.io/Weather-Dashboard/",
-        "git":"https://github.com/Amitabh-K/Weather-Dashboard"
-      },
+
       {
         "name":"Fitness Tracker",
         "description":"Using MongoDB, a Mongoose schema and handling the routes with express this app allows for creating new workouts which are served in the mongodb server..",
