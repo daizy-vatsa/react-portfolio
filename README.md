@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/Amitabh-K/react-portfolio.svg)](http://hits.dwyl.com/Amitabh-K/react-portfolio)
 
 # **[React_Portfolio](https://amitabh-k.github.io/react-portfolio/)** 
 
