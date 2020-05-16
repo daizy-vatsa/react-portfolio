@@ -38,7 +38,6 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
-   margin-bottom: 5%;
 }
 
 /* vertically center banner section */
@@ -53,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;
+   padding-bottom: 30px;s
    text-align: center;
 }
 
@@ -412,10 +411,9 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-
    background: #ebeeee;
    padding-top: 90px;
-   padding-bottom: 600px;
+   padding-bottom: 60px;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -647,7 +645,7 @@ call-to-action .button {
    background-attachment: fixed;
 
    position: relative;
-   height: 700px;
+   min-height: 200px;
    width: 100%;
    overflow: hidden;
 }
@@ -1006,3 +1004,93 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+.fa-link {
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 16px 16px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 10px;
+   margin: 4px 2px;
+   transition-duration: 0.4s;
+   cursor: pointer;
+   border-radius: 25px;
+   flex-direction: column;
+   display: flex;
+ }
+
+
+.fa-link {
+   background-color: #008CBA;
+   color: white;
+   flex-direction: column;
+   display: flex;
+ }
+ 
+ .fa-link:hover {
+   background-color: white; 
+   color: black; 
+   flex-direction: column;
+   display: flex;
+   
+ }
+
+ #github {
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 16px 16px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 10px;
+   margin: 4px 2px;
+   transition-duration: 0.4s;
+   cursor: pointer;
+   border-radius: 25px;
+   flex-direction: column;
+   display: flex;
+ }
+
+
+#github {
+   background-color: #008CBA;
+   color: white;
+   flex-direction: column;
+   display: flex;
+ }
+ 
+ #github:hover {
+   background-color: white; 
+   color: black; 
+   flex-direction: column;
+   display: flex;
+   
+ }
+ #viewcode6{
+    justify-content: space-between;
+    display: flex;
+    border: 1px solid;
+    border-radius: 25px;
+    margin-top: 2%;
+ }
+
+
+
+#logo{
+   color: #fed136;   
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-size: 28px;
+    clear: column;
+    align-content: left;
+    margin-top: 5%;
+    font-style: italic;
+
+}
+
+#box{
+  float: left;
+   
+}
